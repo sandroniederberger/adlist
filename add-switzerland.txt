@@ -1,0 +1,199 @@
+
+analytics.qoqa.ninja^
+analytics-sprint.qoqa.com^
+analytics.qoqa.ch^
+analytics.qoqa.com^
+
+# Net-Metrix AG
+wemfbox.ch^
+
+# Local.ch
+a.local.ch/track^
+
+# Swisscom
+rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget^
+rcp.scsstatic.ch/etc.clientlibs/cq/personalization^
+rcp.scsstatic.ch/etc/designs/portal/resources/0.gif
+swisscom.ch/etc/segmentation^
+so.swisscom.ch^
+swisscom.ch/oce/gp/v1/oce_gp_common/logs^
+swisscom.ch/sdc/odl^
+mdl.swisscom.ch/analytics/at.js^
+# Swisscom myCloud
+mycloud.ch/analytics^
+
+# 20min
+cpc.cpstatic.ch^
+beagle.prod.tda.link^
+tdn.da-services.ch^
+fooby.ch/de/20mindaily.html
+www.20min.ch/2010/JS/section_inject.js
+vv.20min.ch^
+storage.cpstatic.ch/storage/teaser_20min_superdeal_ad_teasercategory^
+www.20min.ch/social_story_teaser.json
+
+# Blick
+# Anti-adblock
+https://www.blick.ch/assets/dist/js/modalMsg-ad*
+da.admeira.ch^
+
+# Admin.ch
+admin.ch/etc/designs/core/frontend/analytics.js
+webstats.ch.ch^
+admin.ch/dam/gov/matomo.js
+webstats.ch.ch^
+
+# Landi
+arc.epoq.de^
+
+# Digitec
+digitec.ch/akam^
+digitec.ch/_next/static/chunks/appinsights.*.js^
+
+# Galaxus
+galaxus.ch/akam^
+galaxus.ch/_next/static/chunks/appinsights.*.js^
+
+# Tamedia
+tamedia.click^
+
+# APG
+gotthard.apgsga.ch^
+
+# streamboatserver
+*.streamboatserver.ch/data/track.php
+
+# infonline.de
+ioam.de^
+iocnt.net^
+
+# Tutti.ch
+cdn.tutti.ch/*/segment.js
+cdn.tutti.ch/*/tag-manager.js
+tutti.worldgravity.com^
+
+# Jobs.ch
+jobs.ch/api/v1/public/job/impression^
+jobs.ch/api/v1/public/job/*/hit^
+jobs.ch/api/v1/public/search?page=*&product=sponsored
+
+# Jobscout24
+jobscout24.ch/statistics/track^
+jobs.ch/api/v1/public/job/*/hit^
+jobscout24.ch/Content/js/trackingpixel.min.js
+jobscout24.ch/t/*.png
+
+# lu.ch
+*.web-analytics.ch^
+
+# stadtluzern.ch
+stadtluzern.ch/compiled/statistics-cms.*.js
+
+# sunrise.ch
+sunrise.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/*
+sunrise.ch/etc.clientlibs/cq/personalization/clientlib/personalization/integrations/*
+
+# nau.ch
+nau.ch/libs-shared-src-components-video-ad-*.js
+nau.ch/OneSignalSDKWorker.js
+
+# Watson.ch
+watson.ch/cc/js/*/ga_datalayer.js
+
+# srf.ch
+player.srf.ch/media-play-stat/**
+il.srgssr.ch/integrationlayer/2.0/srf/mediaStatistic/video/*/clicked.json
+srgsnitch.herokuapp.com/report^
+srf.ch/socialview-in/store_event^
+
+# nzz.ch
+gc-ingress-prod.danzz.ch/ws-ingress^
+track.nzz.ch^
+tms.nzz.ch/danzz/loggr/pixel^
+ens.nzz.ch^
+
+# postfinance.ch
+postfinance.ch/*/dcs.gif
+postfinance.ch/dcswtid.js
+postfinance.ch/ap/ga/tag/containers/*.js
+
+# Post.ch
+post.ch/api/nothing/image^
+
+# Coop.ch
+coop.ch/etc/designs/seitenrahmen/js/tracking.js
+coop.ch/bin/coop/common/tealium.js
+
+# UBS
+analytics.ubs.com^
+ubs.com/includes/tracking_launch.min.*.min.js
+
+# Raiffeisen
+raiffeisen.ch/conf/www/settings/wcm/segments.seg.js
+api.rreports.ch^
+raiffeisen.ch/etc/segmentation.segment.js
+statistics.raiffeisen.ch^
+
+# Adia.com
+prod-t0-api.adia.com/clientlogger/Log/ClientLogging^
+
+# Profital
+tracking-receiver-elb.ws-prod.offerista.com/trackings^
+io.marktjagd.de/trackings^
+geoserver.barcoo.com/lbs/beacon_definitions^
+
+# CSS
+css.ch/*/home.tracking.dynamic.js
+css.ch/designs/*/tracking.min.js
+css.ch/designs/*/css/javascript/tracking/tracking.bundle.js
+css.ch/designs/ie/shared/mobilebanner.clientlib.min.css
+css.ch/designs/ie/shared/mobilebanner.clientlib.min.js
+
+# Mobiliar
+mobiliar.ch/modules/custom/mobi_tealium/js/mobi_tealium.js
+mobiliar.ch/modules/custom/mobi_tealium/js/mobi_tealium_tracking.js
+
+# Teleboy
+teleboy.ch/assets/js/werbung.ad.dc2.adtech.de.addyn.js
+teleboy.ch##.teaser-promo
+
+# Fenaco
+fenaco.com/sites/default/files/google_tag/google_tag.script.js
+
+# Axa
+tagcommander.com^
+
+# Schindler
+schindler.com/etc/clientlibs/schindler/analytics.min.js
+
+# Brack
+i.brack.ch/utag^
+brack.ch/akam^
+h.brack.ch^
+
+# Newsnet/24heures
+/newsnet/in.gif^
+track.24heures.ch^
+
+# Swiss IT Magazine
+itmagazine.ch###rector2
+itmagazine.ch###sky_panel
+
+# Basler Kantonalbank
+bkb.ch/Assets/js/aa^
+
+# GMX
+wa.gmx.ch/gmx/gmx/s^
+
+# Permaleads
+api.permaleads.ch^
+
+# Smood
+sockets.smood.ch/socket.io^
+t.smood.ch^
+
+# Pyrotechnik.ch
+pyrotechnik.ch###sidebar_ads_container
+
+# ZKB/frankly.
+samcp.zkb.ch^
