@@ -84,7 +84,7 @@ jobscout24.ch/Content/js/trackingpixel.min.js
 jobscout24.ch/t/*.png
 
 # lu.ch
-*.web-analytics.ch
+web-analytics.ch
 
 # stadtluzern.ch
 stadtluzern.ch/compiled/statistics-cms.*.js
